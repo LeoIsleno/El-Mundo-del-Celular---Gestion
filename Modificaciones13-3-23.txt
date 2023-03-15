@@ -1,0 +1,3 @@
+- Agregar planilla entregados
+	- si se retiro y salio. si no se retiro y no salio, etc
+- Agregar apartado de observaciones en equipos para reparar
